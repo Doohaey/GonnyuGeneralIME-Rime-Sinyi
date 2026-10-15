@@ -7,18 +7,18 @@
     },
     {
       "path": "default.yaml",
-      "sha256": "6f190bb2bd9961a34823d7d3a7d63d86ccbcfc33aa80f8d49e01b3b23ba87f75",
+      "sha256": "674803ea9609df19fecbacfbbd41f360dac7a55607f1c13001b6b08ff175f6cd",
       "size": 583
     },
     {
       "path": "gannyu_sinyi.dict.yaml",
-      "sha256": "15e0eb85cca6116014a1034674a5cf7eb23f681b1e2b14e7a1d5ad0557bb2fe5",
-      "size": 195146
+      "sha256": "58f5e4c22b2e2683f838bf30b97d6c4683fcae18b3e91e22c76a8d8718eaeecf",
+      "size": 196564
     },
     {
       "path": "gannyu_sinyi.schema.yaml",
-      "sha256": "8fa29cb33bc3ab0e182fcda2521b6dbbb44f8c87c982a712956e75405d436cff",
-      "size": 15835
+      "sha256": "c2645d891f507024d9ded64ceb7ecbd1a35ec4fb4e5b3d16bea883b49772784d",
+      "size": 24919
     },
     {
       "path": "lua/gannyu_annotation_filter.lua",
@@ -47,16 +47,16 @@
     },
     {
       "path": "lua/gannyu_sinyi_annotations.bin",
-      "sha256": "c0d891498c6206cc33c0d85e3a802056ce5f0f9765736dc5a878dea0f7d2ca49",
-      "size": 132210
+      "sha256": "01cc6cf89dcbb3ac580373425a45816a5de8b1ab7ea818fab553288a5fef1aec",
+      "size": 136343
     },
     {
       "path": "lua/gannyu_sinyi_data.lua",
-      "sha256": "8b413834435bb4ffaeec59d96b6025bcf06c191dd3440b8659c1f6d9ce9ee6b0",
-      "size": 162946
+      "sha256": "840cc29cfa95ab9b1c8450f133b24808758a2a5a08ab6bb7b2f59acfc916a990",
+      "size": 163513
     }
   ],
-  "product_version": "1.2.0",
+  "product_version": "1.2.1",
   "regions": [
     {
       "id": "sinyi",
@@ -64,5 +64,5 @@
       "schema_id": "gannyu_sinyi"
     }
   ],
-  "schema_version": "1.2.0"
+  "schema_version": "1.2.1"
 }
