@@ -7,18 +7,18 @@
     },
     {
       "path": "default.yaml",
-      "sha256": "674803ea9609df19fecbacfbbd41f360dac7a55607f1c13001b6b08ff175f6cd",
+      "sha256": "404d7d3b2e21835651dd168b8fc1ea26610bc554f032141403446401a3dc0083",
       "size": 583
     },
     {
       "path": "gannyu_sinyi.dict.yaml",
-      "sha256": "58f5e4c22b2e2683f838bf30b97d6c4683fcae18b3e91e22c76a8d8718eaeecf",
+      "sha256": "4898b1a3bf7850dd41657dab43d78339bd8a42f0f047da90a0e9197dce33f177",
       "size": 196564
     },
     {
       "path": "gannyu_sinyi.schema.yaml",
-      "sha256": "c2645d891f507024d9ded64ceb7ecbd1a35ec4fb4e5b3d16bea883b49772784d",
-      "size": 24919
+      "sha256": "0658f8768602e8c5582705e617002432de3ec88c90100b6458c168d3526270db",
+      "size": 40978
     },
     {
       "path": "lua/gannyu_annotation_filter.lua",
@@ -56,7 +56,7 @@
       "size": 163513
     }
   ],
-  "product_version": "1.2.1",
+  "product_version": "1.2.2",
   "regions": [
     {
       "id": "sinyi",
@@ -64,5 +64,5 @@
       "schema_id": "gannyu_sinyi"
     }
   ],
-  "schema_version": "1.2.1"
+  "schema_version": "1.2.2"
 }
