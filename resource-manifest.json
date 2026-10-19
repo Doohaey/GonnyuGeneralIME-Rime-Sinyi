@@ -17,8 +17,8 @@
     },
     {
       "path": "gannyu_sinyi.schema.yaml",
-      "sha256": "0658f8768602e8c5582705e617002432de3ec88c90100b6458c168d3526270db",
-      "size": 40978
+      "sha256": "81cb814e99e3b01f65fd8bb4ab43fc78e6bc62ef5a954d517960a8e3364c759b",
+      "size": 41136
     },
     {
       "path": "lua/gannyu_annotation_filter.lua",
