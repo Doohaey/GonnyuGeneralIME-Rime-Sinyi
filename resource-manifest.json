@@ -1,14 +1,14 @@
 {
   "files": [
     {
+      "path": "LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "size": 35149
+    },
+    {
       "path": "default.custom.yaml",
       "sha256": "fd69b6d1eb98fea6921952ab26f428c790637452a16fb8a81392f2b16b743d4d",
       "size": 51
-    },
-    {
-      "path": "default.yaml",
-      "sha256": "404d7d3b2e21835651dd168b8fc1ea26610bc554f032141403446401a3dc0083",
-      "size": 583
     },
     {
       "path": "gannyu_sinyi.dict.yaml",
