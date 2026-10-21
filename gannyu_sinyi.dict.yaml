@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_sinyi
-version: "1.2.2"
+version: "1.2.3"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -4282,6 +4282,10 @@ use_preset_vocabulary: false
 星	Gsin	120000
 星	Gxiang	120000
 星	xing	120000
+星子	Gsin Gzï	100000
+星子	Gsin zi	100000
+星子	xing Gzï	100000
+星子	xing zi	100000
 映	Gyang	120000
 映	Gyin	120000
 映	ying	120000
@@ -6780,6 +6784,10 @@ use_preset_vocabulary: false
 筛	shai	120000
 筝	Gdên	120000
 筝	zheng	120000
+筠	Gyun	100000
+筠阳	Gyun Gyong	100000
+筠阳	Gyun yang	100000
+筠阳	yun yang	100000
 筲	Gsau	90000
 筲	shao	90000
 筵	Gyên	90000
@@ -9550,6 +9558,10 @@ use_preset_vocabulary: false
 遁	dun	120000
 遂	Gsi	120000
 遂	sui	120000
+遂川	Gsi Gtuon	100000
+遂川	Gsi chuan	100000
+遂川	sui Gtuon	100000
+遂川	sui chuan	100000
 遇	Gnï	120000
 遇	Gyu	120000
 遇	yu	120000
@@ -10480,6 +10492,10 @@ use_preset_vocabulary: false
 髓	sui	109275
 高	Ggau	200000
 高	gao	200000
+高安	Ggau Gngon	100000
+高安	Ggau an	100000
+高安	gao Gngon	100000
+高安	gao an	100000
 髻	Gji	120000
 鬃	Gjiung	90000
 鬃	Gzung	90000
