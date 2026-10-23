@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_sinyi
-version: "1.2.3"
+version: "1.2.4"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -77,11 +77,11 @@ use_preset_vocabulary: false
 不	bu	200000
 不务正业	Gbek Gwu Gdang Gniêt	120000
 不务正业	Gbek Gwu Gdang ye	120000
-不务正业	Gbek Gwu Gden Gniêt	120000
+不务正业	Gbek Gwu Wden Gniêt	120000
 不务正业	Gbek Gwu zheng Gniêt	120000
 不务正业	Gbek Gwu zheng ye	120000
 不务正业	Gbut Gwu Gdang Gniêt	120000
-不务正业	Gbut Gwu Gden Gniêt	120000
+不务正业	Gbut Gwu Wden Gniêt	120000
 不务正业	bu Gwu Gdang Gniêt	120000
 不务正业	bu Gwu Gdang ye	120000
 不务正业	bu Gwu zheng Gniêt	120000
@@ -2123,23 +2123,23 @@ use_preset_vocabulary: false
 大姨	Gtai Gyi	120000
 大姨	da Gyi	120000
 大姨	da yi	120000
-大娘	Gda Gniong	122508
 大娘	Ghai Gniong	122508
 大娘	Ghai niang	122508
 大娘	Gtai Gniong	122408
 大娘	Gtai niang	122408
+大娘	Wda Gniong	122508
 大娘	da Gniong	122508
 大娘	da niang	122508
-大爷	Gda Gya	122500
 大爷	Ghai Gya	122500
 大爷	Ghai ye	122500
+大爷	Wda Gya	122500
 大爷	da Gya	122500
 大爷	da ye	122500
-大雁	Gda Gngai	120000
-大雁	Gda Gngan	120000
 大雁	Ghai Gngai	120000
 大雁	Ghai Gngan	120000
 大雁	Ghai yan	120000
+大雁	Wda Gngai	120000
+大雁	Wda Gngan	120000
 大雁	da Gngan	120000
 大雁	da yan	120000
 天	Gtiên	200000
@@ -4099,7 +4099,7 @@ use_preset_vocabulary: false
 敌	Gtiek	120000
 敌	di	120000
 敌人	Gtiek Glen	122500
-敌人	Gtiek Gng	122500
+敌人	Gtiek Wng	122500
 敌人	Gtiek ren	122500
 敌人	di Glen	122500
 敌人	di ren	122500
@@ -4229,9 +4229,9 @@ use_preset_vocabulary: false
 日头	Gnit tou	125537
 日头	ri Gtêu	125537
 日头	ri tou	125537
-日子	Glek Gzï	125537
 日子	Gliek Gzï	125537
 日子	Gliek zi	125537
+日子	Wlek Gzï	125537
 日子	ri Gzï	125537
 日子	ri zi	125537
 日牯	Gniêt Ggu	126537
@@ -4859,7 +4859,7 @@ use_preset_vocabulary: false
 正	Gjin	120000
 正	zheng	120000
 正哩	Gdang Gli	127000
-正哩	Gden Gli	127000
+正哩	Wden Gli	127000
 正哩	zheng Gli	127000
 正哩	zheng li	127000
 正当壮年	Gdang Gdong Gjiong Gniên	120000
@@ -4870,7 +4870,7 @@ use_preset_vocabulary: false
 正当壮年	Gdang dang Gjiong nian	120000
 正当壮年	Gdang dang zhuang Gniên	120000
 正当壮年	Gdang dang zhuang nian	120000
-正当壮年	Gden Gdong Gjiong Gniên	120000
+正当壮年	Wden Gdong Gjiong Gniên	120000
 正当壮年	zheng Gdong Gjiong Gniên	120000
 正当壮年	zheng Gdong Gjiong nian	120000
 正当壮年	zheng Gdong zhuang Gniên	120000
@@ -4880,15 +4880,15 @@ use_preset_vocabulary: false
 正当壮年	zheng dang zhuang Gniên	120000
 正当壮年	zheng dang zhuang nian	120000
 正正	Gdang Gdang	123000
-正正	Gdang Gden	123000
+正正	Gdang Wden	123000
 正正	Gdang zheng	123000
-正正	Gden Gdang	123000
-正正	Gden Gden	123000
+正正	Wden Gdang	123000
+正正	Wden Wden	123000
 正正	zheng Gdang	123000
 正正	zheng zheng	123000
 正脚	Gdang Gjiok	125000
 正脚	Gdang jiao	125000
-正脚	Gden Gjiok	125000
+正脚	Wden Gjiok	125000
 正脚	zheng Gjiok	125000
 正脚	zheng jiao	125000
 此	Gcï	200000
@@ -5822,7 +5822,7 @@ use_preset_vocabulary: false
 玉	Gyu	145000
 玉	yu	145000
 玉米	Gniuk Gmi	120000
-玉米	Gyu Gmi	120000
+玉米	Wyu Gmi	120000
 玉米	yu Gmi	120000
 玉米	yu mi	120000
 王	Gwong	145000
@@ -6324,7 +6324,7 @@ use_preset_vocabulary: false
 眼睁	yan Gjiang	127131
 眼睁	yan zheng	127131
 眼睛	Gngan Gjiang	125000
-眼睛	Gngan Gjin	125000
+眼睛	Gngan Wjin	125000
 眼睛	Gngan jing	125000
 眼睛	yan Gjiang	125000
 眼睛	yan jing	125000
@@ -7795,7 +7795,7 @@ use_preset_vocabulary: false
 舜	shun	77305
 舞	Gwu	200000
 舞正哩	Gwu Gdang Gli	127000
-舞正哩	Gwu Gden Gli	127000
+舞正哩	Gwu Wden Gli	127000
 舞正哩	Gwu zheng Gli	127000
 舞正哩	wu zheng li	127000
 舟	Gdeu	120000
@@ -9316,8 +9316,8 @@ use_preset_vocabulary: false
 这会儿	Gza Gwi Geo	125100
 这会儿	Gza Gwi Gê	125100
 这会儿	Gza Gwi er	125100
-这会儿	Gza Gwoi Geo	125100
-这会儿	Gza Gwoi Gê	125100
+这会儿	Gza Wwoi Geo	125100
+这会儿	Gza Wwoi Gê	125100
 这会儿	Gza hui Gê	125100
 这会儿	Gza hui er	125100
 这会儿	zhe Gwi Gê	125100
@@ -9641,8 +9641,8 @@ use_preset_vocabulary: false
 那会儿	Gla Gwi Geo	125100
 那会儿	Gla Gwi Gê	125100
 那会儿	Gla Gwi er	125100
-那会儿	Gla Gwoi Geo	125100
-那会儿	Gla Gwoi Gê	125100
+那会儿	Gla Wwoi Geo	125100
+那会儿	Gla Wwoi Gê	125100
 那会儿	Gla hui Gê	125100
 那会儿	Gla hui er	125100
 那会儿	na Gwi Gê	125100
@@ -10617,17 +10617,17 @@ use_preset_vocabulary: false
 鹅	Gngai	120000
 鹅	Gngo	120000
 鹅	e	120000
-鹅卵石	Gngai Glo Gsa	120000
 鹅卵石	Gngo Glo Gsa	120000
 鹅卵石	Gngo Glo shi	120000
 鹅卵石	Gngo luan Gsa	120000
 鹅卵石	Gngo luan shi	120000
+鹅卵石	Wngai Glo Gsa	120000
 鹅卵石	e Glo Gsa	120000
 鹅卵石	e Glo shi	120000
 鹅卵石	e luan Gsa	120000
 鹅卵石	e luan shi	120000
 鹅婆	Gngai Gpo	121200
-鹅婆	Gngo Gpo	121200
+鹅婆	Wngo Gpo	121200
 鹅婆	yan Gpo	121200
 鹅婆	yan po	121200
 鹉	Gwu	106941
