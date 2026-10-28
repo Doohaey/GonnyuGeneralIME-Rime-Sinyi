@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_sinyi_special_gan
   name: sinyi
-  version: "1.2.4"
+  version: "1.2.5"
 translator:
   dictionary: gannyu_sinyi
   prism: gannyu_sinyi_special_gan

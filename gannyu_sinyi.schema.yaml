@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_sinyi
   name: 赣语－新余市
-  version: "1.2.4"
+  version: "1.2.5"
   dependencies:
     - gannyu_sinyi_nowenbai
     - gannyu_sinyi_full_gan

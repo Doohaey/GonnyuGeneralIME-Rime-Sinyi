@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_sinyi_new_rel
-version: "1.2.4"
+version: "1.2.5"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -7275,7 +7275,7 @@ use_preset_vocabulary: false
 朋友	peng Gyiu	120000
 朋友	peng you	120000
 服	Gfuk	140000
-服	Gwu	140000
+服	Gwuk	140000
 服	fu	140000
 朔	Gsok	71491
 朔	shuo	71491
