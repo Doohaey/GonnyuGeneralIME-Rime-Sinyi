@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_sinyi_new_norel
-version: "1.2.5"
+version: "1.2.7"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -389,14 +389,15 @@ use_preset_vocabulary: false
 乙	Gyek	120000
 乙	Gyit	120000
 乙	yi	120000
-乜	Gmeot	100000
+乜	Gmiêt	100000
+乜	Gmoet	100000
 乜	Gmêk	100000
 乜	mie	100000
 乜仔	Gmêk Gdê	125000
 乜仔	Gmêk zai	125000
 乜仔	mie Gdê	125000
 乜仔	mie zai	125000
-乜烂	Gmeot Glan	120000
+乜烂	Gmoet Glan	120000
 乜烂	Gmêk Glan	120000
 乜烂	mie Glan	120000
 乜烂	mie lan	120000
@@ -527,7 +528,9 @@ use_preset_vocabulary: false
 仇	Gqiu	155000
 仇	Gteu	155000
 仇	chou	155000
+今	Gji	120000
 今	Gjin	120000
+今	jin	120000
 今下	Gji Ga	129000
 今下	Gji xia	129000
 今下	jin Ga	129000
@@ -1328,7 +1331,7 @@ use_preset_vocabulary: false
 利	Gli	120000
 利	Gti	120000
 利	li	120000
-别	Gpiên	200000
+别	Gpiên	100000
 别	Gpiêt	200000
 别	bie	200000
 别个	Gpiêt Ggo	124354
@@ -1687,6 +1690,7 @@ use_preset_vocabulary: false
 反	Gwan	145000
 反	fan	145000
 发	Gfat	200000
+发	Gwak	200000
 发	Gwat	200000
 发	fa	200000
 发咕	Gfat Ggu	100483
@@ -1856,6 +1860,7 @@ use_preset_vocabulary: false
 吊	diao	145000
 同	Gtung	200000
 同	tong	200000
+名	Gmi	120000
 名	Gmiang	120000
 名	Gmin	120000
 名	ming	120000
@@ -1924,6 +1929,7 @@ use_preset_vocabulary: false
 吠	Gfi	100574
 吠	fei	100574
 吥	Gbo	120000
+吥	Gwat	120000
 吥	fou	120000
 吥哩	Gbo Gli	120000
 吥哩	fou Gli	120000
@@ -2086,7 +2092,7 @@ use_preset_vocabulary: false
 哇	Gwa	120000
 哈	Ghak	120000
 哈	ha	120000
-哈啾	Ghat Gqiu	100000
+哈啾	Ghak Gqiu	100000
 哈啾	ha Gqiu	100000
 哈啾	ha qiu	100000
 哉	Gzoi	120000
@@ -2097,6 +2103,8 @@ use_preset_vocabulary: false
 哎	ai	120000
 哑	Gnga	120000
 哑	ya	120000
+哔	Gbit	100000
+哔	bi	100000
 哔叽布	Gbit Gji Gbu	100000
 哔叽布	bi Gji Gbu	100000
 哔叽布	bi ji bu	100000
@@ -2277,6 +2285,8 @@ use_preset_vocabulary: false
 喫香	Gqiak xiang	123071
 喫香	chi Gsong	123071
 喫香	chi xiang	123071
+喵	Gmiêu	100000
+喵	miao	100000
 喵仔	Gmiêu Gji	100000
 喵仔	Gmiêu zai	100000
 喵仔	miao Gji	100000
@@ -2609,8 +2619,9 @@ use_preset_vocabulary: false
 壁	Gbiak	120000
 壁	Gpiek	120000
 壁	bi	120000
-壁屋	Gbiak Gwu	128913
-壁屋	bi Gwu	128913
+壁屋	Gbiak Gwuk	128913
+壁屋	Gbiak wu	128913
+壁屋	bi Gwuk	128913
 壁屋	bi wu	128913
 壁蛇仔	Gbiak Gsa Gdê	100000
 壁蛇仔	Gbiak Gsa zai	100000
@@ -3626,7 +3637,6 @@ use_preset_vocabulary: false
 弆到	ju Gdau	100000
 弆到	ju dao	100000
 弆哩许里	Ggê Gli Ghê Gli	100000
-弆哩许里	Ggê Gli Wsï Gli	100000
 弆哩许里	Ggê Gli xu Gli	100000
 弆哩许里	ju Gli Ghê Gli	100000
 弆哩许里	ju Gli xu Gli	100000
@@ -3714,6 +3724,7 @@ use_preset_vocabulary: false
 征	Gden	120000
 征	Gjin	120000
 征	zheng	120000
+径	Gjiang	120000
 径	Gjin	120000
 径	Gqiang	100000
 径	jing	120000
@@ -3854,6 +3865,7 @@ use_preset_vocabulary: false
 急	ji	200000
 性	Gsang	120000
 性	Gsen	120000
+性	Gsiang	120000
 性	xing	120000
 怨	Gyuon	120000
 怨	yuan	120000
@@ -3948,6 +3960,7 @@ use_preset_vocabulary: false
 惠	Gfui	145000
 惠	hui	145000
 惧	Gcï	104048
+惧	Gji	104048
 惧	Gjyu	104048
 惧	Gzï	104048
 惧	ju	104048
@@ -4392,6 +4405,7 @@ use_preset_vocabulary: false
 拾	Gset	120000
 拾	shi	120000
 拿	Gla	200000
+拿	Glak	200000
 拿	na	200000
 拿咕	Glak Ggu	100083
 拿咕	na Ggu	100083
@@ -4802,7 +4816,6 @@ use_preset_vocabulary: false
 撴到	Gdun dao	106972
 撴到	dun dao	106972
 撴哩许里	Gdun Gli Ghê Gli	106972
-撴哩许里	Gdun Gli Wsï Gli	106972
 撴哩许里	Gdun Gli xu Gli	106972
 撴哩许里	dun li xu li	106972
 撴起来	Gdun Gqi Glai	106972
@@ -4834,8 +4847,8 @@ use_preset_vocabulary: false
 支	zhi	120000
 收	Gsêu	145000
 收	shou	145000
-收命	Gseu Gmiang	125000
-收命	Gseu ming	125000
+收命	Gsêu Gmiang	125000
+收命	Gsêu ming	125000
 收命	shou Gmiang	125000
 收命	shou ming	125000
 改	Ggoi	200000
@@ -4857,6 +4870,7 @@ use_preset_vocabulary: false
 效	Ghau	133508
 效	xiao	133508
 敌	Gtiek	120000
+敌	Gtit	120000
 敌	di	120000
 敍	Gxi	120000
 敍	xu	120000
@@ -5462,6 +5476,7 @@ use_preset_vocabulary: false
 栖	Gqi	120000
 栗	Gliak	120000
 栗	Gliet	120000
+栗	Glit	120000
 栗	li	120000
 校	Ghau	120000
 校	xiao	120000
@@ -6084,6 +6099,8 @@ use_preset_vocabulary: false
 洽	qia	107170
 派	Gpai	195000
 流	Gliu	200000
+流	Gtiu	200000
+流	liu	200000
 浅	Gqiên	120000
 浅	qian	120000
 浆	Gjiong	120000
@@ -7229,6 +7246,7 @@ use_preset_vocabulary: false
 直	Gtit	200000
 直	zhi	200000
 相	Gsiong	120000
+相	Gsong	120000
 相	xiang	120000
 相加	Gsong Gga	125000
 相加	Gsong jia	125000
@@ -7330,6 +7348,7 @@ use_preset_vocabulary: false
 睇	Gti	120000
 睇	di	120000
 睏	Ggun	100000
+睏	Gkun	100000
 睏	kun	100000
 睏着	Gkun Gtok	125000
 睏着	Gkun zhao	125000
@@ -8489,6 +8508,7 @@ use_preset_vocabulary: false
 者	Gda	200000
 者	zhe	200000
 而	Geo	200000
+而	Gyi	200000
 而	Gê	200000
 而	er	200000
 而间	Gyi Gga	128483
@@ -9093,12 +9113,10 @@ use_preset_vocabulary: false
 荷	he	120000
 荸	Gpêt	120000
 荸	bi	120000
-荸子	Gpê Gzï	129223
-荸子	Gpê zi	129223
 荸子	Gpêt Gzï	122223
 荸子	Gpêt zi	122223
-荸子	bi Gzï	129223
-荸子	bi zi	129223
+荸子	bi Gzï	122223
+荸子	bi zi	122223
 莎	Gsa	120000
 莎	sha	120000
 莓	Gmui	120000
@@ -9182,6 +9200,7 @@ use_preset_vocabulary: false
 落	Glak	100000
 落	Glo	120000
 落	Glok	120000
+落	Gyak	100000
 落	luo	120000
 落尿	Glok Gniêu	100000
 落尿	Glok niao	100000
@@ -9573,7 +9592,6 @@ use_preset_vocabulary: false
 袒到	tan Gdau	127586
 袒到	tan dao	127586
 袒哩许里	Gdan Gli Ghê Gli	127586
-袒哩许里	Gdan Gli Wsï Gli	127586
 袒哩许里	Gdan Gli xu Gli	127586
 袒哩许里	tan Gli Ghê Gli	127586
 袒哩许里	tan Gli xu Gli	127586
@@ -9661,6 +9679,7 @@ use_preset_vocabulary: false
 襟	Gjin	120000
 襻	Gpan	90000
 西	Gsi	120000
+西	Gxi	120000
 西	xi	120000
 要	Gyêu	200000
 要	yao	200000
@@ -9782,198 +9801,165 @@ use_preset_vocabulary: false
 讲事	jiang Gsï	125000
 讲事	jiang shi	125000
 许	Ghê	124761
+许	Ghên	100000
 许	Gsï	120000
 许	Gxi	120000
 许	xu	124761
 许下	Ghê Ga	122500
 许下	Ghê xia	122500
-许下	Wsï Ga	122500
 许下	xu Ga	122500
 许下	xu xia	122500
 许下仔	Ghê Ga Gdê	125100
 许下仔	Ghê Ga zai	125100
 许下仔	Ghê xia Gdê	125100
 许下仔	Ghê xia zai	125100
-许下仔	Wsï Ga Gdê	125100
 许下仔	xu Ga Gdê	125100
 许下仔	xu Ga zai	125100
 许下仔	xu xia Gdê	125100
 许下仔	xu xia zai	125100
 许个	Ghê Ggo	128269
 许个	Ghê ge	128269
-许个	Wsï Ggo	128269
 许个	xu Ggo	128269
 许个	xu ge	128269
 许也好	Ghê Gya Ghau	129552
 许也好	Ghê Gya hao	129552
 许也好	Ghê ye Ghau	129552
 许也好	Ghê ye hao	129552
-许也好	Wsï Gya Ghau	129552
 许也好	xu Gya Ghau	129552
 许也好	xu Gya hao	129552
 许也好	xu ye Ghau	129552
 许也好	xu ye hao	129552
 许其	Ghê Gqi	127586
-许其	Wsï Gqi	127586
 许其	xu Gqi	127586
 许其	xu qi	127586
 许双	Ghê Gsong	127902
 许双	Ghê shuang	127902
-许双	Wsï Gsong	127902
 许双	xu Gsong	127902
 许双	xu shuang	127902
 许只	Ghê Gdak	126269
 许只	Ghê zhi	126269
-许只	Wsï Gdak	126269
 许只	xu Gdak	126269
 许只	xu zhi	126269
 许只佬	Ghê Gdak Glau	120000
 许只佬	Ghê Gdak lao	120000
 许只佬	Ghê zhi Glau	120000
 许只佬	Ghê zhi lao	120000
-许只佬	Wsï Gdak Glau	120000
 许只佬	xu Gdak Glau	120000
 许只佬	xu Gdak lao	120000
 许只佬	xu zhi Glau	120000
 许只佬	xu zhi lao	120000
 许场	Ghê Gtong	121117
 许场	Ghê chang	121117
-许场	Wsï Gtong	121117
 许场	xu Gtong	121117
 许场	xu chang	121117
 许外	Ghê Goi	122500
 许外	Ghê Wwai	122500
 许外	Ghê wai	122500
-许外	Wsï Goi	122500
-许外	Wsï Wwai	122500
 许外	xu Goi	122500
 许外	xu wai	122500
 许夜	Ghê Gya	128223
 许夜	Ghê ye	128223
-许夜	Wsï Gya	128223
 许夜	xu Gya	128223
 许夜	xu ye	128223
 许头	Ghê Gêu	126500
 许头	Ghê tou	126500
-许头	Wsï Gêu	126500
 许头	xu Gêu	126500
 许头	xu tou	126500
 许尐	Ghê Gjit	127586
 许尐	Ghê jie	127586
-许尐	Wsï Gjit	127586
 许尐	xu Gjit	127586
 许尐	xu jie	127586
 许就	Ghê Gqiu	126926
 许就	Ghê jiu	126926
-许就	Wsï Gqiu	126926
 许就	xu Gqiu	126926
 许就	xu jiu	126926
 许就是	Ghê Gqiu Gxi	126926
 许就是	Ghê Gqiu shi	126926
 许就是	Ghê jiu Gxi	126926
 许就是	Ghê jiu shi	126926
-许就是	Wsï Gqiu Gxi	126926
 许就是	xu Gqiu Gxi	126926
 许就是	xu Gqiu shi	126926
 许就是	xu jiu Gxi	126926
 许就是	xu jiu shi	126926
 许工	Ghê Ggung	128223
 许工	Ghê ye	128223
-许工	Wsï Ggung	128223
 许工	xu Ggung	128223
 许工	xu ye	128223
 许年	Ghê Gniên	129825
 许年	Ghê nian	129825
-许年	Wsï Gniên	129825
 许年	xu Gniên	129825
 许年	xu nian	129825
 许日	Ghê Glek	128223
 许日	Ghê Gnin	128223
 许日	Ghê Wliek	128223
 许日	Ghê ri	128223
-许日	Wsï Glek	128223
-许日	Wsï Gnin	128223
-许日	Wsï Wliek	128223
 许日	xu Glek	128223
 许日	xu Gnin	128223
 许日	xu ri	128223
 许时	Ghê Gxi	127145
 许时	Ghê shi	127145
-许时	Wsï Gxi	127145
 许时	xu Gxi	127145
 许时	xu shi	127145
 许时间	Ghê Gxi Gga	127145
 许时间	Ghê Gxi jian	127145
 许时间	Ghê shi Gga	127145
 许时间	Ghê shi jian	127145
-许时间	Wsï Gxi Gga	127145
 许时间	xu Gxi Gga	127145
 许时间	xu Gxi jian	127145
 许时间	xu shi Gga	127145
 许时间	xu shi jian	127145
 许是	Ghê Gxi	127527
 许是	Ghê shi	127527
-许是	Wsï Gxi	127527
 许是	xu Gxi	127527
 许是	xu shi	127527
 许条	Ghê Gtiêu	123872
 许条	Ghê tiao	123872
-许条	Wsï Gtiêu	123872
 许条	xu Gtiêu	123872
 许条	xu tiao	123872
 许栋	Ghê Gdung	129704
 许栋	Ghê dong	129704
-许栋	Wsï Gdung	129704
 许栋	xu Gdung	129704
 许栋	xu dong	129704
 许样	Ghê Gyong	125761
 许样	Ghê yang	125761
-许样	Wsï Gyong	125761
 许样	xu Gyong	125761
 许样	xu yang	125761
 许样事	Ghên Gyong Gxi	126761
 许样事	Ghên Gyong shi	126761
 许样事	Ghên yang Gxi	126761
 许样事	Ghên yang shi	126761
+许样事	Wsï Gyong Gxi	126761
 许样事	xu Gyong Gxi	126761
 许样事	xu Gyong shi	126761
 许样事	xu yang Gxi	126761
 许样事	xu yang shi	126761
 许根	Ghê Ggên	120149
 许根	Ghê gen	120149
-许根	Wsï Ggên	120149
 许根	xu Ggên	120149
 许根	xu gen	120149
 许等	Ghê Gdê	127586
 许等	Ghê de	127586
-许等	Wsï Gdê	127586
 许等	xu Gdê	127586
 许等	xu de	127586
 许落	Ghê Glai	123100
 许落	Ghê Glak	123100
 许落	Ghê luo	123100
-许落	Wsï Glai	123100
-许落	Wsï Glak	123100
 许落	xu Glai	123100
 许落	xu Glak	123100
 许落	xu luo	123100
 许边	Ghê Gbiên	122408
 许边	Ghê bian	122408
-许边	Wsï Gbiên	122408
 许边	xu Gbiên	122408
 许边	xu bian	122408
 许道	Ghê Gdau	128996
 许道	Ghê dao	128996
-许道	Wsï Gdau	128996
 许道	xu Gdau	128996
 许道	xu dao	128996
 许里	Ghê Gli	128483
-许里	Wsï Gli	128483
 许里	xu Gli	128483
 许里	xu li	128483
 许间	Ghê Gga	128483
 许间	Ghê jian	128483
-许间	Wsï Gga	128483
 许间	xu Gga	128483
 许间	xu jian	128483
 讹	Gngo	120000
@@ -10347,6 +10333,7 @@ use_preset_vocabulary: false
 贰	er	120000
 贱	Gqiên	120000
 贱	jian	120000
+贴	Gtiêk	120000
 贴	Gtiêt	120000
 贴	tie	120000
 贵	Ggui	125000
@@ -10560,6 +10547,7 @@ use_preset_vocabulary: false
 轴	Gqiu	120000
 轴	Gtuk	120000
 轴	zhou	120000
+轻	Gcung	120000
 轻	Gqiang	120000
 轻	Gqin	120000
 轻	qing	120000
@@ -11309,6 +11297,7 @@ use_preset_vocabulary: false
 雨	Geo	120000
 雨	Goi	170000
 雨	Gyi	170000
+雨	Gyu	170000
 雨	yu	170000
 雪	Gsiêt	120000
 雪	Gsuot	120000

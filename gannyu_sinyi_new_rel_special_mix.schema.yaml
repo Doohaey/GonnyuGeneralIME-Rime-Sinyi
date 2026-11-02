@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_sinyi_new_rel_special_mix
   name: sinyi
-  version: "1.2.5"
+  version: "1.2.7"
 translator:
   dictionary: gannyu_sinyi_new_rel
   prism: gannyu_sinyi_new_rel_special_mix
@@ -43,6 +43,8 @@ speller:
     - derive/^Gcêu$/Fceeu/
     - derive/^Gcêu$/Fceu/
     - derive/^Gcï$/Fci/
+    - derive/^Gcï$/Fcii/
+    - derive/^Gcïk$/Fciik/
     - derive/^Gcïk$/Fcik/
     - derive/^Gdek$/Fdirk/
     - derive/^Gden$/Fdirn/
@@ -136,7 +138,6 @@ speller:
     - derive/^Glên$/Flen/
     - derive/^Glêu$/Fleeu/
     - derive/^Glêu$/Fleu/
-    - derive/^Gmeot$/Fmirot/
     - derive/^Gmet$/Fmirt/
     - derive/^Gmiek$/Fmiirk/
     - derive/^Gmiê$/Fmie/
@@ -147,6 +148,7 @@ speller:
     - derive/^Gmiêt$/Fmiet/
     - derive/^Gmiêu$/Fmieeu/
     - derive/^Gmiêu$/Fmieu/
+    - derive/^Gmoet$/Fmoirt/
     - derive/^Gmê$/Fme/
     - derive/^Gmê$/Fmee/
     - derive/^Gmêk$/Fmeek/
@@ -173,6 +175,7 @@ speller:
     - derive/^Gnêu$/Fneeu/
     - derive/^Gnêu$/Fneu/
     - derive/^Gnï$/Fni/
+    - derive/^Gnï$/Fnii/
     - derive/^Goen$/Foirn/
     - derive/^Goet$/Foirt/
     - derive/^Gpiek$/Fpiirk/
@@ -227,6 +230,8 @@ speller:
     - derive/^Gsêu$/Fseeu/
     - derive/^Gsêu$/Fseu/
     - derive/^Gsï$/Fsi/
+    - derive/^Gsï$/Fsii/
+    - derive/^Gsïk$/Fsiik/
     - derive/^Gsïk$/Fsik/
     - derive/^Gtek$/Ftirk/
     - derive/^Gten$/Ftirn/
@@ -283,6 +288,7 @@ speller:
     - derive/^Gzêu$/Fzeeu/
     - derive/^Gzêu$/Fzeu/
     - derive/^Gzï$/Fzi/
+    - derive/^Gzï$/Fzii/
     - derive/^Gê$/Fe/
     - derive/^Gê$/Fee/
     - derive/^Gêu$/Feeu/

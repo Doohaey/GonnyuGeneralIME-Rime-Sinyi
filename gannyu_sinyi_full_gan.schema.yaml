@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_sinyi_full_gan
   name: sinyi
-  version: "1.2.5"
+  version: "1.2.7"
 translator:
   dictionary: gannyu_sinyi
   prism: gannyu_sinyi_full_gan
@@ -138,7 +138,11 @@ speller:
     - derive/^Gcêu$/Fceu/
     - derive/^Gcêu$/Fcou/
     - derive/^Gcï$/Fci/
+    - derive/^Gcï$/Fcii/
     - fuzz/^Gcïk$/Fci/
+    - fuzz/^Gcïk$/Fcii/
+    - derive/^Gcïk$/Fciik/
+    - fuzz/^Gcïk$/Fciit/
     - derive/^Gcïk$/Fcik/
     - fuzz/^Gcïk$/Fcit/
     - fuzz/^Gcïk$/Fcï/
@@ -650,11 +654,6 @@ speller:
     - fuzz/^Gmak$/Fma/
     - fuzz/^Gmak$/Fmat/
     - derive/^Gmau$/Fmao/
-    - fuzz/^Gmeot$/Fmeo/
-    - fuzz/^Gmeot$/Fmeok/
-    - fuzz/^Gmeot$/Fmiro/
-    - fuzz/^Gmeot$/Fmirok/
-    - derive/^Gmeot$/Fmirot/
     - fuzz/^Gmet$/Fme/
     - fuzz/^Gmet$/Fmek/
     - fuzz/^Gmet$/Fmep/
@@ -685,6 +684,11 @@ speller:
     - fuzz/^Gmiêt$/Fmiêk/
     - derive/^Gmiêu$/Fmieeu/
     - derive/^Gmiêu$/Fmieu/
+    - fuzz/^Gmoet$/Fmoe/
+    - fuzz/^Gmoet$/Fmoek/
+    - fuzz/^Gmoet$/Fmoir/
+    - fuzz/^Gmoet$/Fmoirk/
+    - derive/^Gmoet$/Fmoirt/
     - fuzz/^Gmok$/Fmo/
     - fuzz/^Gmok$/Fmot/
     - derive/^Gmui$/Fmuei/
@@ -811,6 +815,7 @@ speller:
     - derive/^Gnêu$/Fneeu/
     - derive/^Gnêu$/Fneu/
     - derive/^Gnï$/Fni/
+    - derive/^Gnï$/Fnii/
     - derive/^Goen$/Foirn/
     - fuzz/^Goet$/Foe/
     - fuzz/^Goet$/Foek/
@@ -1088,7 +1093,11 @@ speller:
     - derive/^Gsêu$/Fseu/
     - derive/^Gsêu$/Fsou/
     - derive/^Gsï$/Fsi/
+    - derive/^Gsï$/Fsii/
     - fuzz/^Gsïk$/Fsi/
+    - fuzz/^Gsïk$/Fsii/
+    - derive/^Gsïk$/Fsiik/
+    - fuzz/^Gsïk$/Fsiit/
     - derive/^Gsïk$/Fsik/
     - fuzz/^Gsïk$/Fsit/
     - fuzz/^Gsïk$/Fsï/
@@ -1543,6 +1552,7 @@ speller:
     - derive/^Gzêu$/Fzeu/
     - derive/^Gzêu$/Fzou/
     - derive/^Gzï$/Fzi/
+    - derive/^Gzï$/Fzii/
     - derive/^Gê$/Fe/
     - derive/^Gê$/Fee/
     - derive/^Gêu$/Feeu/
