@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_sinyi_new_rel_special_mix_nowenbai
   name: sinyi
-  version: "1.2.7"
+  version: "1.3.0"
 translator:
   dictionary: gannyu_sinyi_new_rel
   prism: gannyu_sinyi_new_rel_special_mix_nowenbai
@@ -15,8 +15,11 @@ speller:
   delimiter: " '"
   algebra:
     - erase/^W.*$/
+    - derive/^Gbet$/Fbert/
     - derive/^Gbet$/Fbirt/
+    - derive/^Gbiek$/Fbierk/
     - derive/^Gbiek$/Fbiirk/
+    - derive/^Gbiet$/Fbiert/
     - derive/^Gbiet$/Fbiirt/
     - derive/^Gbiê$/Fbie/
     - derive/^Gbiê$/Fbiee/
@@ -34,7 +37,10 @@ speller:
     - derive/^Gbên$/Fben/
     - derive/^Gbêt$/Fbeet/
     - derive/^Gbêt$/Fbet/
+    - derive/^Gcek$/Fcerk/
     - derive/^Gcek$/Fcirk/
+    - derive/^Gcuei$/Fcueri/
+    - derive/^Gcuei$/Fcuiri/
     - derive/^Gcêk$/Fceek/
     - derive/^Gcêk$/Fcek/
     - derive/^Gcên$/Fceen/
@@ -47,14 +53,19 @@ speller:
     - derive/^Gcï$/Fcii/
     - derive/^Gcïk$/Fciik/
     - derive/^Gcïk$/Fcik/
+    - derive/^Gdek$/Fderk/
     - derive/^Gdek$/Fdirk/
+    - derive/^Gden$/Fdern/
     - derive/^Gden$/Fdirn/
+    - derive/^Gdeu$/Fderu/
     - derive/^Gdeu$/Fdiru/
+    - derive/^Gdiek$/Fdierk/
     - derive/^Gdiek$/Fdiirk/
     - derive/^Gdiêk$/Fdieek/
     - derive/^Gdiêk$/Fdiek/
     - derive/^Gdiêu$/Fdieeu/
     - derive/^Gdiêu$/Fdieu/
+    - derive/^Gdoe$/Fdoer/
     - derive/^Gdoe$/Fdoir/
     - derive/^Gdê$/Fde/
     - derive/^Gdê$/Fdee/
@@ -66,8 +77,11 @@ speller:
     - derive/^Gdêt$/Fdet/
     - derive/^Gdêu$/Fdeeu/
     - derive/^Gdêu$/Fdeu/
+    - derive/^Geo$/Fero/
     - derive/^Geo$/Firo/
+    - derive/^Gfei$/Fferi/
     - derive/^Gfei$/Ffiri/
+    - derive/^Gfet$/Ffert/
     - derive/^Gfet$/Ffirt/
     - derive/^Gfêk$/Ffeek/
     - derive/^Gfêk$/Ffek/
@@ -77,6 +91,7 @@ speller:
     - derive/^Gfêu$/Ffeu/
     - derive/^Ggiêu$/Fgieeu/
     - derive/^Ggiêu$/Fgieu/
+    - derive/^Gguet$/Fguert/
     - derive/^Gguet$/Fguirt/
     - derive/^Gguê$/Fgue/
     - derive/^Gguê$/Fguee/
@@ -92,9 +107,13 @@ speller:
     - derive/^Ggên$/Fgen/
     - derive/^Ggêu$/Fgeeu/
     - derive/^Ggêu$/Fgeu/
+    - derive/^Gheoi$/Fheroi/
     - derive/^Gheoi$/Fhiroi/
+    - derive/^Ghoe$/Fhoer/
     - derive/^Ghoe$/Fhoir/
+    - derive/^Ghoek$/Fhoerk/
     - derive/^Ghoek$/Fhoirk/
+    - derive/^Ghoen$/Fhoern/
     - derive/^Ghoen$/Fhoirn/
     - derive/^Ghê$/Fhe/
     - derive/^Ghê$/Fhee/
@@ -104,7 +123,9 @@ speller:
     - derive/^Ghên$/Fhen/
     - derive/^Ghêu$/Fheeu/
     - derive/^Ghêu$/Fheu/
+    - derive/^Gjiek$/Fjierk/
     - derive/^Gjiek$/Fjiirk/
+    - derive/^Gjiet$/Fjiert/
     - derive/^Gjiet$/Fjiirt/
     - derive/^Gjiê$/Fjie/
     - derive/^Gjiê$/Fjiee/
@@ -116,7 +137,9 @@ speller:
     - derive/^Gjiêt$/Fjiet/
     - derive/^Gjiêu$/Fjieeu/
     - derive/^Gjiêu$/Fjieu/
+    - derive/^Gjyuek$/Fjyuerk/
     - derive/^Gjyuek$/Fjyuirk/
+    - derive/^Gkuet$/Fkuert/
     - derive/^Gkuet$/Fkuirt/
     - derive/^Gkuê$/Fkue/
     - derive/^Gkuê$/Fkuee/
@@ -126,10 +149,15 @@ speller:
     - derive/^Gkên$/Fken/
     - derive/^Gkêu$/Fkeeu/
     - derive/^Gkêu$/Fkeu/
+    - derive/^Glek$/Flerk/
     - derive/^Glek$/Flirk/
+    - derive/^Glen$/Flern/
     - derive/^Glen$/Flirn/
+    - derive/^Glet$/Flert/
     - derive/^Glet$/Flirt/
+    - derive/^Gliek$/Flierk/
     - derive/^Gliek$/Fliirk/
+    - derive/^Gliet$/Fliert/
     - derive/^Gliet$/Fliirt/
     - derive/^Gliên$/Flieen/
     - derive/^Gliên$/Flien/
@@ -137,7 +165,10 @@ speller:
     - derive/^Gliêt$/Fliet/
     - derive/^Gliêu$/Flieeu/
     - derive/^Gliêu$/Flieu/
+    - derive/^Gloet$/Floert/
     - derive/^Gloet$/Floirt/
+    - derive/^Gluei$/Flueri/
+    - derive/^Gluei$/Fluiri/
     - derive/^Glêk$/Fleek/
     - derive/^Glêk$/Flek/
     - derive/^Glên$/Fleen/
@@ -146,8 +177,11 @@ speller:
     - derive/^Glêt$/Flet/
     - derive/^Glêu$/Fleeu/
     - derive/^Glêu$/Fleu/
+    - derive/^Gmet$/Fmert/
     - derive/^Gmet$/Fmirt/
+    - derive/^Gmiek$/Fmierk/
     - derive/^Gmiek$/Fmiirk/
+    - derive/^Gmiet$/Fmiert/
     - derive/^Gmiet$/Fmiirt/
     - derive/^Gmiê$/Fmie/
     - derive/^Gmiê$/Fmiee/
@@ -157,6 +191,7 @@ speller:
     - derive/^Gmiêt$/Fmiet/
     - derive/^Gmiêu$/Fmieeu/
     - derive/^Gmiêu$/Fmieu/
+    - derive/^Gmoet$/Fmoert/
     - derive/^Gmoet$/Fmoirt/
     - derive/^Gmê$/Fme/
     - derive/^Gmê$/Fmee/
@@ -174,6 +209,7 @@ speller:
     - derive/^Gngên$/Fngen/
     - derive/^Gngêu$/Fngeeu/
     - derive/^Gngêu$/Fngeu/
+    - derive/^Gniek$/Fnierk/
     - derive/^Gniek$/Fniirk/
     - derive/^Gniên$/Fnieen/
     - derive/^Gniên$/Fnien/
@@ -183,10 +219,15 @@ speller:
     - derive/^Gniêu$/Fnieu/
     - derive/^Gnï$/Fni/
     - derive/^Gnï$/Fnii/
+    - derive/^Goe$/Foer/
     - derive/^Goe$/Foir/
+    - derive/^Goen$/Foern/
     - derive/^Goen$/Foirn/
+    - derive/^Goet$/Foert/
     - derive/^Goet$/Foirt/
+    - derive/^Gpiek$/Fpierk/
     - derive/^Gpiek$/Fpiirk/
+    - derive/^Gpiet$/Fpiert/
     - derive/^Gpiet$/Fpiirt/
     - derive/^Gpiê$/Fpie/
     - derive/^Gpiê$/Fpiee/
@@ -206,7 +247,9 @@ speller:
     - derive/^Gpêt$/Fpet/
     - derive/^Gpêu$/Fpeeu/
     - derive/^Gpêu$/Fpeu/
+    - derive/^Gqiek$/Fqierk/
     - derive/^Gqiek$/Fqiirk/
+    - derive/^Gqiet$/Fqiert/
     - derive/^Gqiet$/Fqiirt/
     - derive/^Gqiê$/Fqie/
     - derive/^Gqiê$/Fqiee/
@@ -218,16 +261,25 @@ speller:
     - derive/^Gqiêt$/Fqiet/
     - derive/^Gqiêu$/Fqieeu/
     - derive/^Gqiêu$/Fqieu/
+    - derive/^Gqyuek$/Fqyuerk/
     - derive/^Gqyuek$/Fqyuirk/
+    - derive/^Gsek$/Fserk/
     - derive/^Gsek$/Fsirk/
+    - derive/^Gsen$/Fsern/
     - derive/^Gsen$/Fsirn/
+    - derive/^Gseoi$/Fseroi/
     - derive/^Gseoi$/Fsiroi/
+    - derive/^Gset$/Fsert/
     - derive/^Gset$/Fsirt/
+    - derive/^Gseu$/Fseru/
     - derive/^Gseu$/Fsiru/
     - derive/^Gsiên$/Fsieen/
     - derive/^Gsiên$/Fsien/
     - derive/^Gsiêt$/Fsieet/
     - derive/^Gsiêt$/Fsiet/
+    - derive/^Gsuei$/Fsueri/
+    - derive/^Gsuei$/Fsuiri/
+    - derive/^Gsuet$/Fsuert/
     - derive/^Gsuet$/Fsuirt/
     - derive/^Gsê$/Fse/
     - derive/^Gsê$/Fsee/
@@ -243,9 +295,13 @@ speller:
     - derive/^Gsï$/Fsii/
     - derive/^Gsïk$/Fsiik/
     - derive/^Gsïk$/Fsik/
+    - derive/^Gtek$/Fterk/
     - derive/^Gtek$/Ftirk/
+    - derive/^Gten$/Ftern/
     - derive/^Gten$/Ftirn/
+    - derive/^Gteu$/Fteru/
     - derive/^Gteu$/Ftiru/
+    - derive/^Gtiek$/Ftierk/
     - derive/^Gtiek$/Ftiirk/
     - derive/^Gtiêk$/Ftieek/
     - derive/^Gtiêk$/Ftiek/
@@ -255,8 +311,13 @@ speller:
     - derive/^Gtiêt$/Ftiet/
     - derive/^Gtiêu$/Ftieeu/
     - derive/^Gtiêu$/Ftieu/
+    - derive/^Gtoe$/Ftoer/
     - derive/^Gtoe$/Ftoir/
+    - derive/^Gtoet$/Ftoert/
     - derive/^Gtoet$/Ftoirt/
+    - derive/^Gtuei$/Ftueri/
+    - derive/^Gtuei$/Ftuiri/
+    - derive/^Gtuet$/Ftuert/
     - derive/^Gtuet$/Ftuirt/
     - derive/^Gtê$/Fte/
     - derive/^Gtê$/Ftee/
@@ -268,6 +329,7 @@ speller:
     - derive/^Gtêt$/Ftet/
     - derive/^Gtêu$/Fteeu/
     - derive/^Gtêu$/Fteu/
+    - derive/^Gwei$/Fweri/
     - derive/^Gwei$/Fwiri/
     - derive/^Gwê$/Fwe/
     - derive/^Gwê$/Fwee/
@@ -279,8 +341,11 @@ speller:
     - derive/^Gxiên$/Fxien/
     - derive/^Gxiêt$/Fxieet/
     - derive/^Gxiêt$/Fxiet/
+    - derive/^Gyek$/Fyerk/
     - derive/^Gyek$/Fyirk/
+    - derive/^Gyet$/Fyert/
     - derive/^Gyet$/Fyirt/
+    - derive/^Gyuek$/Fyuerk/
     - derive/^Gyuek$/Fyuirk/
     - derive/^Gyêk$/Fyeek/
     - derive/^Gyêk$/Fyek/

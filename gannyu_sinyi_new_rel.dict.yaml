@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_sinyi_new_rel
-version: "1.2.7"
+version: "1.3.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -1385,7 +1385,7 @@ use_preset_vocabulary: false
 倦	Gqyuon	145000
 倦	juan	145000
 倪	Gni	73943
-倭	Glui	120000
+倭	Gluei	120000
 倭	Gwo	120000
 倭	wo	120000
 债	Gjiai	120000
@@ -1563,7 +1563,7 @@ use_preset_vocabulary: false
 克	ke	145000
 免	Gmiên	120000
 免	mian	120000
-兑	Gtui	120000
+兑	Gtuei	120000
 兑	dui	120000
 兔	Gtu	120000
 党	Gdong	120000
@@ -3547,7 +3547,7 @@ use_preset_vocabulary: false
 坼	Gcak	120000
 坼	Gqiak	120000
 坼	che	120000
-垂	Gsui	120000
+垂	Gsuei	120000
 垂	chui	120000
 垃	Glat	120000
 垃	la	120000
@@ -5979,9 +5979,9 @@ use_preset_vocabulary: false
 打瞌睏	Gda ke Ggun	120000
 打瞌睏	Gda ke kun	120000
 打瞌睏	da ke kun	120000
-打瞌睡	Gda Gkot Gsui	120000
+打瞌睡	Gda Gkot Gsuei	120000
 打瞌睡	Gda Gkot shui	120000
-打瞌睡	Gda ke Gsui	120000
+打瞌睡	Gda ke Gsuei	120000
 打瞌睡	Gda ke shui	120000
 打瞌睡	da ke shui	120000
 打脷肚	Gda Gli Gdu	100000
@@ -6513,7 +6513,7 @@ use_preset_vocabulary: false
 握	wo	195000
 揢	Gkak	120000
 揢	ke	120000
-揣	Gcui	120000
+揣	Gcuei	120000
 揣	chuai	120000
 揣兜里	Gcuot Gdêu Gli	100901
 揣兜里	Gcuot dou Gli	100901
@@ -7448,6 +7448,8 @@ use_preset_vocabulary: false
 村子	Gcun Gzï	128913
 村子	Gcun zi	128913
 村子	cun zi	128913
+杔	Gzak	128625
+杔	tuo	128625
 杖	Gtong	120000
 杖	zhang	120000
 杜	Gtu	120000
@@ -10092,20 +10094,20 @@ use_preset_vocabulary: false
 睛	Gjin	120000
 睛	jing	120000
 睡	Gheoi	120000
-睡	Gsui	120000
+睡	Gsuei	120000
 睡	Gsuoi	120000
 睡	shui	120000
-睡意	Gsui Gyi	120000
+睡意	Gsuei Gyi	120000
 睡意	shui Gyi	120000
 睡意	shui yi	120000
-睡意上来	Gsui Gyi Gsong Glai	125000
-睡意上来	Gsui Gyi Gsong Gloi	125000
-睡意上来	Gsui Gyi shang Glai	125000
+睡意上来	Gsuei Gyi Gsong Glai	125000
+睡意上来	Gsuei Gyi Gsong Gloi	125000
+睡意上来	Gsuei Gyi shang Glai	125000
 睡意上来	shui Gyi Gsong Glai	125000
 睡意上来	shui Gyi shang Glai	125000
 睡意上来	shui yi shang lai	125000
-睡着	Gsui Gdok	125000
-睡着	Gsui zhao	125000
+睡着	Gsuei Gdok	125000
+睡着	Gsuei zhao	125000
 睡着	shui Gdok	125000
 睡着	shui zhao	125000
 睡觉	Gsui Ggau	127000
@@ -10417,7 +10419,7 @@ use_preset_vocabulary: false
 稍	Gsau	120000
 稍	shao	120000
 税	Gheoi	200000
-税	Gsui	200000
+税	Gsuei	200000
 税	shui	200000
 稗	Gpa	90000
 稗	bai	90000
@@ -10628,6 +10630,8 @@ use_preset_vocabulary: false
 笪吥	da fou	100000
 第	Gti	200000
 第	di	200000
+笮	Gzak	120779
+笮	ze	120779
 笺	Gqiên	72395
 笺	jian	72395
 笼	Glung	120000
@@ -13604,7 +13608,7 @@ use_preset_vocabulary: false
 读	du	200000
 课	Gko	120000
 课	ke	120000
-谁	Gsui	129163
+谁	Gsuei	129163
 谁	Gsuoi	120000
 谁	Gxi	120000
 谁	shui	129163
