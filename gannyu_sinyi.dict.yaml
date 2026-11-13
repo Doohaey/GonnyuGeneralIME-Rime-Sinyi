@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_sinyi
-version: "1.3.0"
+version: "1.3.1"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -7120,6 +7120,14 @@ use_preset_vocabulary: false
 旱	han	120000
 时	Gxi	200000
 时	shi	200000
+时候	Gxi Ghêu	112370
+时候	Gxi hou	112370
+时候	shi Ghêu	112370
+时候	shi hou	112370
+时间	Gxi Ggan	125182
+时间	Gxi jian	125182
+时间	shi Ggan	125182
+时间	shi jian	125182
 旷	Gkuong	120000
 旷	kuang	120000
 旸	Gyak	120000
@@ -7167,10 +7175,12 @@ use_preset_vocabulary: false
 星	Gsiang	120000
 星	Gsin	120000
 星	xing	120000
+星子	Gsang Gzï	125893
+星子	Gsang zi	125893
 星子	Gsen Gzï	100000
 星子	Gsen zi	100000
-星子	xing Gzï	100000
-星子	xing zi	100000
+星子	xing Gzï	125893
+星子	xing zi	125893
 星星	Gsang Gsang	100000
 星星	Gsang xing	100000
 星星	xing Gsang	100000
@@ -7318,6 +7328,14 @@ use_preset_vocabulary: false
 最	zui	200000
 月	Gnyuot	120000
 月	yue	120000
+月亮	Gnyuot Gliong	119064
+月亮	Gnyuot liang	119064
+月亮	yue Gliong	119064
+月亮	yue liang	119064
+月公	Gnyuot Ggung	121601
+月公	Gnyuot gong	121601
+月公	yue Ggung	121601
+月公	yue gong	121601
 有	Gyiu	200000
 有	you	200000
 有影	Gyiu Gyang	100000
@@ -15300,6 +15318,10 @@ use_preset_vocabulary: false
 闩	shuan	120000
 闪	Gsên	135907
 闪	shan	135907
+闪电	Gsên Gtiên	118494
+闪电	Gsên dian	118494
+闪电	shan Gtiên	118494
+闪电	shan dian	118494
 闭	Gbi	135000
 问	Gwun	120000
 问	wen	120000
@@ -15543,6 +15565,10 @@ use_preset_vocabulary: false
 雷	Glui	120000
 雷	Gluoi	120000
 雷	lei	120000
+雷火	Glui Gfo	124909
+雷火	Glui huo	124909
+雷火	lei Gfo	124909
+雷火	lei huo	124909
 雹	Gpo	120000
 雹	bao	120000
 雾	Gwu	120000
