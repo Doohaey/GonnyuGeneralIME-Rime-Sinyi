@@ -937,9 +937,9 @@ use_preset_vocabulary: false
 仍	reng	120000
 从	Gqiung	120000
 从	cong	120000
-从未	Gqiung Gwei	100000
+从未	Gqiung Gwui	100000
 从未	Gqiung shi	100000
-从未	jue Gwei	100000
+从未	jue Gwui	100000
 从未	jue shi	100000
 仑	Glun	110671
 仓	Gcong	155000
@@ -1034,11 +1034,12 @@ use_preset_vocabulary: false
 伙	Gwo	120000
 伙	huo	120000
 会	Gkuai	106025
-会	Gwei	126025
 会	Gwoi	200000
+会	Gwui	126025
 会	hui	200000
 伞	Gsan	120000
-伟	Gwei	120000
+伟	Gwui	120000
+伟	wei	120000
 传	Gtuon	120000
 传	chuan	120000
 传	zhuan	120000
@@ -2360,7 +2361,8 @@ use_preset_vocabulary: false
 卧室	Gngo shi	148010
 卧室	wo Gset	148010
 卧室	wo shi	148010
-卫	Gwei	120000
+卫	Gwui	120000
+卫	wei	120000
 卯	Gmau	120000
 卯	mao	120000
 印	Gyin	120000
@@ -2599,8 +2601,9 @@ use_preset_vocabulary: false
 口吃	Gkêu chi	135
 口吃	kou Gqiak	135
 口吃	kou chi	135
-口胃	Gkêu Gwei	100000
-口胃	kou Gwei	100000
+口胃	Gkêu Gwui	100000
+口胃	Gkêu wei	100000
+口胃	kou Gwui	100000
 口胃	kou wei	100000
 口袋	Gkêu Gtoi	124500
 口袋	Gkêu dai	124500
@@ -2976,7 +2979,8 @@ use_preset_vocabulary: false
 周	zhou	200000
 呱	Ggua	120000
 呱	gu	120000
-味	Gwei	145000
+味	Gwui	145000
+味	wei	145000
 呼	Gfu	120000
 呼	Gho	100000
 呼	Gwu	120000
@@ -3474,7 +3478,7 @@ use_preset_vocabulary: false
 四脚蛇	si jiao Gsa	100000
 四脚蛇	si jiao she	100000
 回	Gfei	200000
-回	Gwei	200000
+回	Gwui	200000
 回	hui	200000
 回去	Gfui Gqiê	129028
 回去	Gfui qu	129028
@@ -3501,7 +3505,8 @@ use_preset_vocabulary: false
 困觉	kun jiao	127000
 囱	Gtung	120000
 囱	cong	120000
-围	Gwei	120000
+围	Gwui	120000
+围	wei	120000
 固	Ggu	120000
 国	Gguok	200000
 国	Gguêk	200000
@@ -4164,7 +4169,8 @@ use_preset_vocabulary: false
 姻	Gyin	120000
 姿	Gzï	120000
 姿	zi	120000
-威	Gwei	120000
+威	Gwui	120000
+威	wei	120000
 娇	Gjiêu	120000
 娇	jiao	120000
 娘	Gnio	120000
@@ -4559,7 +4565,8 @@ use_preset_vocabulary: false
 将不会去	jiang bu Gwi qu	120000
 将不会去	jiang bu hui Gqiê	120000
 将不会去	jiang bu hui qu	120000
-尉	Gwei	103062
+尉	Gwui	103062
+尉	wei	103062
 尊	Gjiun	120000
 尊	Gzun	120000
 尊	zun	120000
@@ -4721,7 +4728,7 @@ use_preset_vocabulary: false
 尽	jin	120000
 尾	Gmi	120000
 尾	Gmiê	120000
-尾	Gwei	120000
+尾	Gwui	120000
 尾	wei	120000
 尿	Gniêu	130000
 尿	niao	130000
@@ -5292,7 +5299,7 @@ use_preset_vocabulary: false
 录	Gliuk	120000
 录	Gluk	120000
 录	lu	120000
-彗	Gwei	120000
+彗	Gwui	120000
 彗	hui	120000
 形	Gsen	145000
 形	Gxin	145000
@@ -5394,8 +5401,8 @@ use_preset_vocabulary: false
 循	Gsun	120000
 循	xun	120000
 微	Gmê	120000
-微	Gwei	120000
 微	Gwi	120000
+微	Gwui	120000
 微	wei	120000
 微仔	Gmê Gdê	125000
 微仔	Gmê zai	125000
@@ -5404,7 +5411,7 @@ use_preset_vocabulary: false
 德	Gdê	124589
 德	de	124589
 徽	Gfei	120000
-徽	Gwei	120000
+徽	Gwui	120000
 徽	hui	120000
 心	Gsin	195000
 心	xin	195000
@@ -5723,7 +5730,7 @@ use_preset_vocabulary: false
 惟	Gwi	145000
 惟	wei	145000
 惠	Gfei	145000
-惠	Gwei	145000
+惠	Gwui	145000
 惠	hui	145000
 惧	Gcï	104048
 惧	Gji	104048
@@ -5776,11 +5783,12 @@ use_preset_vocabulary: false
 慢慢地	Gman Gman di	100226
 慢慢地	man man di	100226
 慧	Gfei	145000
-慧	Gwei	145000
+慧	Gwui	145000
 慧	hui	145000
 慨	Gkoi	120000
 慨	kai	120000
-慰	Gwei	120000
+慰	Gwui	120000
+慰	wei	120000
 慷	Gkong	100431
 慷	kang	100431
 憋	Gbiêt	120000
@@ -6332,7 +6340,7 @@ use_preset_vocabulary: false
 挤	Gjiê	120000
 挤	ji	120000
 挥	Gfei	120000
-挥	Gwei	120000
+挥	Gwui	120000
 挥	hui	120000
 挦	Gqiên	90000
 挦	xian	90000
@@ -7250,7 +7258,7 @@ use_preset_vocabulary: false
 晓几	xiao Gji	125000
 晓几	xiao ji	125000
 晕	Gyun	120000
-晖	Gwei	120000
+晖	Gwui	120000
 晖	hui	120000
 晚	Gwan	190000
 晚上	Gwan Gsong	125000
@@ -7491,7 +7499,8 @@ use_preset_vocabulary: false
 木材欲断声	mu cai yu Gtuon sheng	105996
 木材欲断声	mu cai yu duan Gsen	105996
 木材欲断声	mu cai yu duan sheng	105996
-未	Gwei	200000
+未	Gwui	200000
+未	wei	200000
 末	Gmuot	145000
 末	mo	145000
 本	Gbun	200000
@@ -8346,7 +8355,7 @@ use_preset_vocabulary: false
 汆	Gqyuon	120000
 汆	cuan	120000
 汇	Gfei	145000
-汇	Gwei	145000
+汇	Gwui	145000
 汇	hui	145000
 汉	Ghon	125000
 汉	han	125000
@@ -9184,8 +9193,8 @@ use_preset_vocabulary: false
 煤	mei	145000
 照	Gdêu	120000
 照	zhao	120000
-煨	Gwei	95000
 煨	Gwoi	95000
+煨	Gwui	95000
 煨	wei	95000
 煮	Gdoe	120000
 煮	Gjyu	170000
@@ -9768,8 +9777,8 @@ use_preset_vocabulary: false
 畅	chang	120000
 界	Ggai	150000
 界	jie	150000
-畏	Gwei	120000
 畏	Gwoi	120000
+畏	Gwui	120000
 畏	wei	120000
 留	Gliu	175000
 留	Gtiu	175000
@@ -11209,7 +11218,8 @@ use_preset_vocabulary: false
 级	Gjiêk	170000
 级	ji	170000
 纪	Gji	120000
-纬	Gwei	120000
+纬	Gwui	120000
+纬	wei	120000
 纯	Gsun	146000
 纯	chun	146000
 纱	Gsa	120000
@@ -11320,7 +11330,7 @@ use_preset_vocabulary: false
 绕	Glêu	120000
 绕	rao	120000
 绘	Gfei	102358
-绘	Gwei	102358
+绘	Gwui	102358
 绘	hui	102358
 给	Gjit	100000
 给	gei	100000
@@ -11411,10 +11421,14 @@ use_preset_vocabulary: false
 绳	sheng	120000
 维	Gwi	120000
 维	wei	120000
-维持生计	Gwei Gti Gsang Gji	100000
-维持生计	Gwei Gti sheng Gji	100000
-维持生计	Gwei chi Gsang Gji	100000
-维持生计	Gwei chi sheng Gji	100000
+维持生计	Gwui Gti Gsang Gji	100000
+维持生计	Gwui Gti sheng Gji	100000
+维持生计	Gwui chi Gsang Gji	100000
+维持生计	Gwui chi sheng Gji	100000
+维持生计	wei Gti Gsang Gji	100000
+维持生计	wei Gti sheng Gji	100000
+维持生计	wei chi Gsang Gji	100000
+维持生计	wei chi sheng Gji	100000
 维持生计	wei chi sheng ji	100000
 绵	Gmiên	120000
 绵	mian	120000
@@ -11836,9 +11850,11 @@ use_preset_vocabulary: false
 胁胛里	xie Ggat Gli	122000
 胁胛里	xie jia Gli	122000
 胁胛里	xie jia li	122000
-胃	Gwei	120000
-胃口	Gwei Gkêu	100000
-胃口	Gwei kou	100000
+胃	Gwui	120000
+胃	wei	120000
+胃口	Gwui Gkêu	100000
+胃口	Gwui kou	100000
+胃口	wei Gkêu	100000
 胃口	wei kou	100000
 胆	Gdan	120000
 背	Gbi	120000
@@ -12262,7 +12278,8 @@ use_preset_vocabulary: false
 芹	Gqin	120000
 芽	Gnga	120000
 芽	ya	120000
-苇	Gwei	100630
+苇	Gwui	100630
+苇	wei	100630
 苋	Ghan	90000
 苋	xian	90000
 苋菜叶	Ghan Gcoi Gyêt	100000
@@ -12329,7 +12346,7 @@ use_preset_vocabulary: false
 茫	Gmong	145000
 茫	mang	145000
 茴	Gfei	115000
-茴	Gwei	115000
+茴	Gwui	115000
 茴	hui	115000
 茶	Gca	120000
 茶	Gqia	120000
@@ -13822,7 +13839,8 @@ use_preset_vocabulary: false
 谏	jian	72509
 谐	Gkai	120000
 谐	xie	120000
-谓	Gwei	120000
+谓	Gwui	120000
+谓	wei	120000
 谕	Gyi	120000
 谕	yu	120000
 谗	Gcan	120000
@@ -14255,7 +14273,7 @@ use_preset_vocabulary: false
 辈	Gbi	145000
 辈	bei	145000
 辉	Gfei	145000
-辉	Gwei	145000
+辉	Gwui	145000
 辉	hui	145000
 辋	Gmong	120000
 辋	wang	120000
@@ -14620,7 +14638,8 @@ use_preset_vocabulary: false
 进	Gjin	150000
 远	Gyuon	200000
 远	yuan	200000
-违	Gwei	120000
+违	Gwui	120000
+违	wei	120000
 连	Gliên	200000
 连	lian	200000
 迟	Gqi	120000
@@ -15944,7 +15963,8 @@ use_preset_vocabulary: false
 魄	Gpak	120000
 魄	Gpêk	120000
 魄	po	120000
-魏	Gwei	120000
+魏	Gwui	120000
+魏	wei	120000
 魔	Gmo	120000
 鱼	Gnï	180000
 鱼	yu	180000

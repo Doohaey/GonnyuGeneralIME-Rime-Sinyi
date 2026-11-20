@@ -340,6 +340,7 @@ speller:
     - derive/^Gdêu$/Fdeeu/
     - derive/^Gdêu$/Fdeu/
     - derive/^Gdêu$/Fdou/
+    - derive/^Geo$/Fer/
     - derive/^Geo$/Fero/
     - derive/^Geo$/Firo/
     - derive/^Geo$/Fo/
@@ -1014,6 +1015,9 @@ speller:
     - derive/^Gmêu$/Fmeeu/
     - derive/^Gmêu$/Fmeu/
     - derive/^Gmêu$/Fmou/
+    - derive/^Gng$/Fen/
+    - derive/^Gng$/Fern/
+    - derive/^Gng$/Firn/
     - fuzz/^Gngaik$/Fngai/
     - fuzz/^Gngaik$/Fngait/
     - fuzz/^Gngak$/Fnga/
@@ -1608,10 +1612,6 @@ speller:
     - fuzz/^Gwak$/Fwat/
     - fuzz/^Gwat$/Fwa/
     - fuzz/^Gwat$/Fwak/
-    - derive/^Gwei$/Fweiri/
-    - derive/^Gwei$/Fweri/
-    - derive/^Gwei$/Fwiri/
-    - derive/^Gwei$/Fwuiri/
     - derive/^Gwi$/Fwei/
     - derive/^Gwi$/Fweiri/
     - derive/^Gwi$/Fweri/
@@ -1627,6 +1627,11 @@ speller:
     - derive/^Gwon$/Fwuirn/
     - fuzz/^Gwot$/Fwo/
     - fuzz/^Gwot$/Fwok/
+    - derive/^Gwui$/Fwei/
+    - derive/^Gwui$/Fweiri/
+    - derive/^Gwui$/Fweri/
+    - derive/^Gwui$/Fwiri/
+    - derive/^Gwui$/Fwuiri/
     - fuzz/^Gwuk$/Fwu/
     - fuzz/^Gwuk$/Fwut/
     - fuzz/^Gwut$/Fwu/
@@ -1863,6 +1868,9 @@ speller:
     - derive/^Gzï$/Fzii/
     - derive/^Gê$/Fe/
     - derive/^Gê$/Fee/
+    - derive/^Gê$/Fei/
+    - derive/^Gê$/Feri/
+    - derive/^Gê$/Firi/
     - derive/^Gêu$/Feeu/
     - derive/^Gêu$/Feu/
     - xform/^G//
